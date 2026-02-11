@@ -1,1 +1,1 @@
-# Patient-Safety-and-Hospital-Performance.
+# Patient-Safety-and-Hospital-Performance
